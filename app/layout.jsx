@@ -3,25 +3,8 @@ import './globals.css'
 
 export const metadata = {
   title: 'Happy Wellness & Fitness | Start Your Transformation Today',
-  description: 'Premium gym and fitness training in Armoor, Nizamabad. Expert trainers, modern equipment, and personalized guidance for your fitness goals.',
-  generator: 'v0.app',
-  icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
-  },
+  description:
+    'Premium gym and fitness training in Armoor, Nizamabad. Expert trainers, modern equipment, and personalized guidance for your fitness goals.',
 }
 
 export const viewport = {
