@@ -136,27 +136,27 @@ new
 
 ### Public Website
 
-![Gym Website](home.png)
+![Gym Website](screenshots/home.png)
 
 ### Enquiry Portal 
 
-![Enquiry form](enquiry-portal)
+![Enquiry form](screenshots/enquiry-portal)
 
 ### Admin Login
 
-![Admin Login](admin-login.png)
+![Admin Login](screenshots/admin-login.png)
 
 ### Admin Dashboard
 
-![Admin Dashboard](dashboard.png)
+![Admin Dashboard](screenshots/dashboard.png)
 
 ### Enquiries
 
-![Enquiries](enquiries.png)
+![Enquiries](screenshots/enquiries.png)
 
 ### Enquiry Details
 
-![Enquiry Details](enquiry-details.png)
+![Enquiry Details](screenshots/enquiry-details.png)
 
 ---
 
