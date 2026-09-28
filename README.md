@@ -140,7 +140,7 @@ new
 
 ### Enquiry Portal 
 
-![Enquiry form](screenshots/enquiry-portal)
+![Enquiry form](screenshots/enquiry-portal.png)
 
 ### Admin Login
 
